@@ -46,6 +46,5 @@ replace.py "starting = 500," "starting = %bk%,"
 replace.py "starting = 1500," "starting = %ch%,"
 replace.py "Config.MaxWeight = 24" "Config.MaxWeight = %pm%"
 replace.py "--client_script('@korioz/lib.lua')" "--Installation facile by JLDimitri74#6940"
-replace.py "Base d'velopp' par Korioz" "Base d'velopp' par %nom% et JLDimitri74#6940 <3"
 echo "Operation terminee appuyez sur Entree pour fermer si tu as besoin d'aide MP moi JLDimitri74#6940 "
 pause
