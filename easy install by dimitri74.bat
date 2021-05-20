@@ -39,6 +39,7 @@ replace.py "TriggerClientEvent('::{korioz#0110}::" "TriggerClientEvent('::{%inp%
 replace.py "sv_maxclients 250" "sv_maxclients 32"
 replace.py "discord.gg/california" "discord.gg/%ds%"
 replace.py "californiarp.fr" "En Dev"
+replace.py "California RP" "%nom%"
 replace.py "CaliforniaRP" "%nom%"
 replace.py "California" "%nom%"
 replace.py "california" "%nom%"
